@@ -71,4 +71,4 @@ Now that the CMake files have been setup and our code is written it is time to c
 cmake -S . -B build
 cmake --build build
 ./build/src/app
-``
+```
